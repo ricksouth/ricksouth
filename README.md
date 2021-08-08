@@ -1,4 +1,4 @@
-![header](https://github.com/ricksouth/ricksouth/raw/main/assets/header.png)
+[![header](https://github.com/ricksouth/ricksouth/raw/main/assets/header.png)](#)
 
 <!--
 **ricksouth/ricksouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
