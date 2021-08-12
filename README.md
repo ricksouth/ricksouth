@@ -5,3 +5,5 @@ If you enjoy what I do, feel free to sponsor me on [Github](https://github.com/s
 But just spreading the word and letting me know your thoughts on anything is also greatly appreciated!
 
 ![footer](https://i.imgur.com/LLTAO4Y.png)
+
+**Happy programming!**
