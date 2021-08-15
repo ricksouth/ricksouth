@@ -11,7 +11,7 @@ But just spreading the word and letting me know your thoughts on anything is als
 </p>
   
 <div align="center">
-  <img src="https://i.imgur.com/LLTAO4Y.png">
+  <a src="#"><img src="https://raw.githubusercontent.com/ricksouth/ricksouth/main/assets/coffee_happy.png"></a>
   <br><br>
   <b>Happy programming!</b>
 </div>
