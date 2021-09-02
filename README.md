@@ -10,7 +10,7 @@ But just spreading the word and letting me know your thoughts on anything is als
   <a href="https://patreon.com/ricksouth" target="_blank"><img alt="patreon" src="https://img.shields.io/badge/Patreon-ricksouth-FF5700?style=flat-square&logo=patreon&logoColor=FF5700"></a>
 </p>
 <div align="center">
-  <a src="#"><img src="https://raw.githubusercontent.com/ricksouth/ricksouth/main/assets/coffee_happy.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/ricksouth/ricksouth/main/assets/coffee_happy.png"></a>
   <br><br>
   <b>Happy programming!</b>
 </div>
