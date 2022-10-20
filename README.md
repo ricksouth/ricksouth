@@ -6,5 +6,5 @@
 |   |   |
 | [![](https://github.com/ricksouth/ricksouth/raw/main/assets/empty.png)](#)  | [![](https://github.com/ricksouth/ricksouth/raw/main/assets/empty.png)](#)  |
 | **Come say hi! 👋**  | **Contribute to the development! ❤️**  |
-| [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/twitter_rounded.svg)](https://twitter.com/ricksouthdev) [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/discord_rounded.svg)](https://discord.gg/vFren9YzzN)  | [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/donation_rounded.svg)](https://ricksouth.com/donate)  |
+| [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/discord_rounded.svg)](https://discord.gg/vFren9YzzN) [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/twitter_rounded.svg)](https://twitter.com/ricksouthdev)  | [![](https://github.com/ricksouth/ricksouth/raw/main/assets/shields/donation_rounded.svg)](https://ricksouth.com/donate)  |
 |   |   |
